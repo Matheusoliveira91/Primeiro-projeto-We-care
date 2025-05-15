@@ -1,0 +1,26 @@
+h1 {
+    color: blueviolet; /*COR DO  MEU TITULO */
+    font-size: 50px; 
+    font-family: "Roboto", sans-serif; 
+    font-weight: lighter;  /*FONTE FINA OU GROSSA " BOLD, BOLDER" */
+    text-shadow: 5px 5px 10px blueviolet;     /* DEIXAR MEU TITULO ESTILIZADO */
+
+}
+
+p { 
+    
+    color: green;     /* COR DO MEU TITULO */ 
+    font-size: 30px;    /* TAMANHO DA MINHA FONTE*/   
+    font-weight: 100;    /* FONTE FINA OU GROSSA */
+    font-family: "Roboto", sans-serif;   /*FONTE DA SUA ESCOLHA PARA O PROJETO "ROBOTO,ARIAL..."*/
+    font-style: italic;    /*ESTILO DA SUA FONTE " ITALIC" */
+    line-height: 50px;     /*ALTURA DAS LINHAS DO SEU TEXTO*/
+    letter-spacing: 10px;  /* ESPAÇAMENTO ENTRE AS LETRAS DO TEXTO */
+    word-spacing: 40px;    /*ESPAÇAMENTO ENTRE AS PALAVRAS DO TEXTO*/
+    text-align: justify;   /* ALINHAMENTO DO TEXTO " CENTER, RIGHT" */
+    text-transform: capitalize;  /* DEIXA AS LETRA MAISCULA OU MINUSCULA DO SEU TEXTO " UPPERCASE,LOWERCASE */
+    text-decoration: underline;  /* LINHAS NO SEU TEXTO */
+
+
+
+}
